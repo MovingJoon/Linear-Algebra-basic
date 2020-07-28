@@ -8,19 +8,23 @@
 6. 단위벡터란
 7. 직선의 매개변수 표현
 
-# Linear combination and span
+
+### Linear combination and span
 1. 선형결합과 생성
 
-# Linear indepedence and depedence
+
+### Linear indepedence and depedence
 1. 선형독립이란?
 2. 선형독립 더 알아보기
 3. 선형생성과 선형독립 예제
 
-# Subspace and basis
+
+### Subspace and basis
 1. 선형 부분공간
 2. 부분공간의 기저
 
-# Dot pruduct & Outer product 
+
+### Dot pruduct & Outer product 
 1. 벡터의 내걱과 벡터의 길이 
 2. 벡터 내적의 성질 증명
 3. 코시-슈바르츠 부등식의 증명
