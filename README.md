@@ -1,4 +1,4 @@
-# 모두를 위한 선형대수학(2020-07-07~)
+# 모두를 위한 선형대수학(2020-07-07~2020-08-31)   
 https://www.edwith.org/linear-algebra   
 
 ### What is Vector
