@@ -35,7 +35,7 @@ https://www.edwith.org/linear-algebra
 6. 점과 법선벡터를 이용하여 R3에서 평면 정의하기
 7. 벡터의 외적이란?
 
-###
+### Matrix for solving system of equations by addition and subtraction
 1.행 사디리꼴 행렬을 이용하여 3차연립방정식과 4개의 변수풀기   
    
 ### zero vector & column space
